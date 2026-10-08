@@ -1,0 +1,9 @@
+sim/
+simv*
+csrc/
+ucli.key
+*.log
+*.vpd
+*.fsdb
+verdiLog/
+novas.*
